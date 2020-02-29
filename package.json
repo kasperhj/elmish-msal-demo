@@ -1,0 +1,22 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "webpack",
+    "start": "webpack-dev-server"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.8.6",
+    "fable-compiler": "^2.4.16",
+    "fable-loader": "^2.1.8",
+    "remotedev": "^0.2.9",
+    "webpack": "^4.41.6",
+    "webpack-cli": "^3.3.11",
+    "webpack-dev-server": "^3.10.3"
+  },
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "msal": "^1.2.1",
+    "react": "^16.13.0",
+    "react-dom": "^16.13.0"
+  }
+}
