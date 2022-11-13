@@ -10,7 +10,7 @@
     "fable-loader": "^2.1.8",
     "remotedev": "^0.2.9",
     "webpack": "^4.41.6",
-    "webpack-cli": "^3.3.11",
+    "webpack-cli": "^3.3.12",
     "webpack-dev-server": "^3.10.3"
   },
   "dependencies": {
